@@ -5,6 +5,7 @@ have fun lmao
 hit the green 'code' button in the corner, download the code as a `.zip`, extract the `.zip`, and run the `.bat`! ez bro
 ## License
 this project is licensed under the apache-2.0 license.
+modifying is allowed and highly encouraged!
 ## Disclaimer
 any harm done using "sinister" will not be the responsiblity of the owners or developers of `sinister`.
 ## Other files
